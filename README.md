@@ -42,8 +42,7 @@ In any published research using the models, you cite the following paper:
 Design2Cloth: 3D Cloth Generation from 2D Masks, J. Zheng, RA Potamias and S. Zafeiriou, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June, 2024
 
 ## Usage 
-The code has been tested on 
-Environment:
+The code has been tested on:
 * Ubuntu 22.04
 * python 3.8.12
 * PyTorch 1.12.0 w/ CUDA 11.8.0
