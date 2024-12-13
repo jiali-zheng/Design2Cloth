@@ -12,8 +12,10 @@ import os
 import cv2
 
 CHECKPOINT_PATH = './ckpt/D2C_ckpt.pt'
-mask_pth = './sample_data/trousers.png'
-shape_pth = './sample_data/trousers_shape.npy'
+mask_pth = './sample_data/dress.png'
+shape_pth = './sample_data/dress_shape.npy'
+# mask_pth = './sample_data/trousers.png'
+# shape_pth = './sample_data/trousers_shape.npy' #can try this sample as well
 
 udf_max_dist   = 0.05
 latent_size    = 64
