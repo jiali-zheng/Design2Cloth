@@ -65,12 +65,7 @@ v, t = get_mesh_from_udf(
     max_batch=2**10,
     differentiable=False,
 )
-# ss = v.cpu().squeeze(0)
-# p = trimesh.points.PointCloud(ss, colors=np.tile(np.array([0, 0, 0, 1]), (len(ss), 1)))
-# s = trimesh.Scene()
-# # s.add_geometry(trimesh.creation.axis())
-# s.add_geometry(p)
-# s.show()
+
 
 # Save the output mesh
 o3d_mesh = o3d.geometry.TriangleMesh(
