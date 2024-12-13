@@ -74,7 +74,7 @@ o3d_mesh = o3d.geometry.TriangleMesh(
     vertices=o3d.utility.Vector3dVector(v.detach().cpu().numpy()),
     triangles=o3d.utility.Vector3iVector(t.cpu().numpy())
 )
-o3d_mesh = o3d_mesh.filter_smooth_simple(number_of_iterations=2)  # Adjust iterations
+o3d_mesh = o3d_mesh.filter_smooth_simple(number_of_iterations=2)  
 smoothed_trimesh = trimesh.Trimesh(
     vertices=np.asarray(o3d_mesh.vertices),
     faces=np.asarray(o3d_mesh.triangles)
