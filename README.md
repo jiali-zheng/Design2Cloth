@@ -1,5 +1,5 @@
 # Design2Cloth: 3D Cloth Generation from 2D Masks
-[**Official Implementation of "Design2Cloth: 3D Cloth Generation from 2D Masks" (CVPR2024)**](https://jiali-zheng.github.io/Design2Cloth/)
+Official Implementation of [**"Design2Cloth: 3D Cloth Generation from 2D Masks" (CVPR2024)**](https://jiali-zheng.github.io/Design2Cloth/)
 
 <H4 align="center">
 Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou
