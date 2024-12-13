@@ -59,7 +59,7 @@ We provide inference script and sample data to generate the 3D cloth mesh from a
 ```python 
 python inference.py
 ```
-The generated mesh will be saved at ./output/
+The generated mesh will be saved at ./test_output/
 
 
 ## Citation 
