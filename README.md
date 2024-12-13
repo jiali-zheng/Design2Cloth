@@ -79,6 +79,6 @@ If you find this work is useful for your research, please consider citing our pa
 
 ## Acknowledgements
 Parts of the code are taken or adapted from the following repos:
-- [DrapeNet]((https://github.com/liren2515/DrapeNet))
-- [MeshUDF]((https://github.com/cvlab-epfl/MeshUDF))
-- [EG3D]((https://github.com/NVlabs/eg3d))
+- [DrapeNet](https://github.com/liren2515/DrapeNet)
+- [MeshUDF](https://github.com/cvlab-epfl/MeshUDF)
+- [EG3D](https://github.com/NVlabs/eg3d)
