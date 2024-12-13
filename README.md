@@ -1,5 +1,5 @@
 # Design2Cloth: 3D Cloth Generation from 2D Masks
-Official Implementation of "Design2Cloth: 3D Cloth Generation from 2D Masks" (CVPR2024)
+[**Official Implementation of "Design2Cloth: 3D Cloth Generation from 2D Masks" (CVPR2024)**](https://jiali-zheng.github.io/Design2Cloth/)
 
 <H4 align="center">
 Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou
@@ -19,7 +19,7 @@ In recent years, there has been a significant shift in the field of digital avat
 </br>
 
 
-<p align="center"><img width="80%" src="figure/intp.jpg" /></p>
+<p align="center"><img width="80%" src="figure/intp.png" /></p>
 
 
 
@@ -28,7 +28,7 @@ In recent years, there has been a significant shift in the field of digital avat
 
 To create Design2Cloth, we built an automated pipeline to extract cloth meshes from the collected subject scans. We utilized the triplane representation and a dual-resolution discriminator to model various styles and enforce wrinkle details of the generated cloths. The proposed model manages to achieve reconstruction garments with realistic creases.
 
-<p align="center"><img width="80%" src="figure/recon.jpg" /></p>
+<p align="center"><img width="80%" src="figure/recon.png" /></p>
 
 </br>
 
