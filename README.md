@@ -48,7 +48,10 @@ The code has been tested on:
 * PyTorch 1.12.0 w/ CUDA 11.8.0
 
 Create the required environment by running
-```python 
+```python
+git clone https://github.com/jiali-zheng/Design2Cloth.git
+cd Design2Cloth
+
 conda env create -f environment.yml
 conda activate Design2Cloth
 ```
