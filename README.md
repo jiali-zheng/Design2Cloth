@@ -33,7 +33,7 @@ To create Design2Cloth, we built an automated pipeline to extract cloth meshes f
 </br>
 
 ## Public release models
-The models have been publicly available for research and education purposes. To obtain access to the models, please download the model from [**here**](https://www.dropbox.com/scl/fi/r0d39u0eru12a3qukh6yv/D2C_ckpt.pt?rlkey=k9g362i5h3yfjc27r7fxs0iun&st=gm9ydwkm&dl=0) and place it under ./ckpt/ for inference.
+The models have been publicly available for research and education purposes. To obtain access to the models, please download the model from [**here**](https://www.dropbox.com/scl/fi/9rbbjleyhtch80f6yrt6r/D2C_ckpt.pt?rlkey=65ckd9ayh7evc0ic01zyzs1te&st=8hmf54vv&dl=0) and place it under ./ckpt/ for inference.
 
 The models along with their corresponding derivatives are used for non-commercial research and education purposes only.
 You agree not copy, sell, trade, or exploit the model for any commercial purposes.
