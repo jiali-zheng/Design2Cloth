@@ -33,7 +33,7 @@ To create Design2Cloth, we built an automated pipeline to extract cloth meshes f
 </br>
 
 ## Public release models and Dataset
-The model and dataset have been publicly available for research and education purposes. To obtain access to the models, please download the model from [**here**](https://www.dropbox.com/scl/fi/9rbbjleyhtch80f6yrt6r/D2C_ckpt.pt?rlkey=65ckd9ayh7evc0ic01zyzs1te&st=8hmf54vv&dl=0) and place it under **./ckpt/** for inference.
+The model and dataset have been publicly available for research and education purposes. To obtain access to the models, please download the model from [**here**](https://www.dropbox.com/scl/fi/gkl438vim579p0j21jif8/D2C_ckpt.pt?rlkey=9pvzm8tqdg2juu0et2z11yhhe&st=y74tu0yv&dl=0) and place it under **./ckpt/** for inference.
 
 The proposed 3D cloth dataset can be downloaded from [**here**](https://www.dropbox.com/scl/fi/93hlshwsg88bgd28hnu75/D2C_Dataset.zip?rlkey=usbr09pjimz9u0jrhigvbw062&st=jy1hcjmg&dl=0).
 
