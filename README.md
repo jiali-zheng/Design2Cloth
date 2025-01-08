@@ -58,6 +58,11 @@ conda env create -f environment.yml
 conda activate Design2Cloth
 ```
 
+Build and install `meshudf`:
+```python
+cd meshudf
+source setup.sh
+```
 
 #### Inference
 We provide inference script and sample data to generate the 3D cloth mesh from a given 2D mask and corresponding shape parameter. Please run the following line for inference.
